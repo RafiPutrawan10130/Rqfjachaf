@@ -1,7 +1,3 @@
-
-Run details
-Workflow file for this run
-.github/workflows/mobile-release.yml at f7d0e58
 name: Mobile + Release
 on: workflow_dispatch
 
